@@ -1,5 +1,5 @@
 package training.hu;
 
-public class Bike {
+public class Bike {// alma merged
 
 }
